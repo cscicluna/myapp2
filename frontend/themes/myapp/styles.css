@@ -1,0 +1,12 @@
+@import url('./main-layout.css');
+@import url('./views/dashboard-view.css');
+@import url('./views/collaborative-master-detail-view.css');
+@import url('./views/master-detail-view.css');
+@import url('./views/grid-with-filters-view.css');
+@import url('./views/my-view-view.css');    html {
+      --lumo-primary-color: rgb(22, 83, 27);
+      --lumo-primary-color-50pct: rgba(22, 83, 27, 0.5);
+      --lumo-primary-color-10pct: rgba(22, 83, 27, 0.1);
+      --lumo-primary-text-color: rgb(22, 83, 27);
+
+    }
